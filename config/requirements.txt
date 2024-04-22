@@ -1,0 +1,27 @@
+Here are the instructions for setting up the exact environment:
+
+1. Pyenv Installation: 
+   - Install `pyenv` by following the instructions on their GitHub page: [pyenv GitHub](https://github.com/pyenv/pyenv#installation).
+   - After installation, verify that `pyenv` is properly set up by running `pyenv --version`.
+
+2. Project Folder Creation:
+   - Initially created a new github repository and then created folders and files from there
+
+3. Virtual Environment Creation:
+   - Open a terminal and navigate to the project folder.
+   - Run the following commands to create a virtual environment using `pyenv` and `virtualenv`:
+     ```
+     pyenv install 3.10.13  # Install Python 3.10.13
+     pyenv virtualenv 3.10.13 myenv  # Create a virtual environment named 'myenv' with Python 3.10.13
+     ```
+   - Activate the virtual environment:
+     ```
+     pyenv activate myenv
+     ```
+   - Confirm that the correct Python version is being used by running `python --version`, which should display Python 3.10.13.
+
+4. Environment Configuration File:
+   - Create an `requirements.txt` file to document the exact environment setup.
+
+   - Save the file in the config folder in the project folder.
+
