@@ -1,0 +1,39 @@
+- Communication Standards:
+  - Regular Check-ins: 
+    - We are meeting everyday for 6 hours to work together to complete the project
+    
+  - Informal yet Effective: 
+    - Encouraging open dialogue and swift exchange of information.
+    - Avoiding unnecessary formalities to foster a collaborative environment.
+  
+- Documentation Standards:
+  - Markdown Files in GitHub Repository:
+    - Utilize Markdown format for simplicity and readability.
+    - Establish a dedicated folder in the GitHub repository for documentation.
+  - Tracking Changes and Decisions:
+    - Use Git version control to track changes systematically.
+    - Document decisions, updates, and discussions within Markdown files.
+  
+- GitHub Repository Management:
+  - Constant Pushing and Pulling:
+    - Ensure timely updates by pushing changes frequently.
+    - Regularly pull updates to stay aligned with the latest version of the project.
+  - Effective Repository Organization:
+    - Create folders for different components/modules of the project.
+    - Utilize the `os` command to manage file paths and ensure data integrity.
+  
+- Data Management Practices:
+  - CSV File Management:
+    - Utilize the `os` command to ensure data is saved in new CSV files.
+    - Prevent overwriting older data by implementing systematic file naming conventions.
+  - Communication and Collaboration:
+    - Actively communicate tasks and updates related to data management.
+    - Encourage team members to ask questions and seek clarification when needed.
+  
+- Documentation Practices:
+  - Comprehensive Documentation:
+    - Document every step and decision made during the project.
+    - Include explanations, code snippets, and rationale behind decisions.
+  - Regular Updates:
+    - Continuously update documentation to reflect the latest changes.
+    - Allocate time for documentation during the project to ensure accuracy and completeness.
