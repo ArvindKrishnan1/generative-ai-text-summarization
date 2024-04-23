@@ -1,3 +1,3 @@
 ## generative-ai-text-summarization
 
-# The goal of this model is to classify text documents into predetemined categories and summarize them based off of the AG News dataset. 
+# The objective of this model is to categorize text documents based on the titles into predefined categories using the AG News dataset. Following classification, a summarization process will be employed to condense the descriptions corresponding to each title within newly identified categories. 
