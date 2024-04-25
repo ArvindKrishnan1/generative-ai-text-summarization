@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nickr/OneDrive/Documents/GitHub/generative-ai-text-summarization/notebooks/mlruns/0/99a22665274b4861bd5529436ea331dc/artifacts
+end_time: 1714061691285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99a22665274b4861bd5529436ea331dc
+run_name: ./results
+run_uuid: 99a22665274b4861bd5529436ea331dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714061519176
+status: 3
+tags: []
+user_id: nickr
